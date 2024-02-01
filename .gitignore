@@ -1,2 +1,6 @@
 .env
 chroma_db_oai/
+consent/
+output/
+samples/
+customvoice.log
