@@ -15,6 +15,8 @@
 | 09_version.ipynb            | GPT-4 with Vision |
 | 10_dall-e.ipynb             | Dall-E 3          |
 | 11_whisper.ipynb            | Whisper           |
+| 12_assistant.ipynb          | Assistant API     |
+
 
 ## Usecases
 | Notebook                             | Description |
