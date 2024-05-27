@@ -16,6 +16,7 @@
 | 10_dall-e.ipynb             | Dall-E 3          |
 | 11_whisper.ipynb            | Whisper           |
 | 12_assistant.ipynb          | Assistant API     |
+| 13_gpt_4o.ipynb          | GPT-4O example    |
 
 
 ## Usecases
@@ -42,3 +43,6 @@ Use Azure personal voice to generate speech
 
 ## Crewai
 Crewai example
+
+## RAG
+RAG chunking and query strategies
